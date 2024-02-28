@@ -1,5 +1,5 @@
 # CoffeeUp
-Academic research about coffee price market on NASDAQ
+Academic research about price market of coffee on NASDAQ
 
 Abstract: This study explores various machine learning
 approaches and feature engineering techniques to optimize the
